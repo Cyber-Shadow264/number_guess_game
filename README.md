@@ -20,8 +20,8 @@ A simple Python number guessing game where the computer chooses a number between
 ## How to Play
 
 1. Clone the repository:
-```bash
-git clone https://github.com/YourGitHubUsername/number_guess_game.git
+   ```bash
+   git clone https://github.com/YourGitHubUsername/number_guess_game.git
 
 
 2. Go to the project folder:
