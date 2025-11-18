@@ -23,10 +23,16 @@ A simple Python number guessing game where the computer chooses a number between
 ```bash
 git clone https://github.com/YourGitHubUsername/number_guess_game.git
 
-2.
-```bash
+
+2. Go to the project folder:
+   ```bash
+   cd 
 cd number_guess_game
 
-3.
-```bash
-python game.py
+3. Run the calculator:
+   ```bash
+   python game.py
+
+
+# FUTURE TO IMPROVEMENT
+# I AM LEARNING STAGE
