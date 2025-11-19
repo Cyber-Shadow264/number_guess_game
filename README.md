@@ -21,7 +21,7 @@ A simple Python number guessing game where the computer chooses a number between
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/number_guess_game.git
+   git clone https://github.com/Cyber-Shadow264/number_guess_game.git
 
 
 2. Go to the project folder:
